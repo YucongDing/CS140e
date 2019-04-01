@@ -1,0 +1,9 @@
+[package]
+name = "gussing_game"
+version = "0.1.0"
+authors = ["YucongDing <a792151034@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+rand = "0.3.14"
